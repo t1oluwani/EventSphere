@@ -1,19 +1,25 @@
-# TODO
-- Init Django and Angular
+## 🌐 EventSphere (Full Stack Dev)
 
-# Features
-- Multiple Accounts (Admin, Organiser, Invitee) 
-- Create and Manage events (api + database)
-- set and view location (google maps api)
-- Public and private events (anyone can join, invite only)
-- Register and purchase tickets (secure Payment handling)
-- Generate qr codes for invitation (QR code generation)
-- Track events capacity and availabilty (Real-time updates)
-- Send event reminders and announcemetns to users (email notifs)
-- event marketplace (view public events and filter based on etc..., add to shopping cart)
+**Goal:** Develop a full-stack application of a ticketing system
 
-# References
+**Tech Stack:** Angular, Django, SQLite
 
-*Framework Tutorials*
-- https://www.youtube.com/watch?v=1Hc7KlLiU9w&ab_channel=ArtofEngineer
-- https://www.youtube.com/watch?v=CUeR1j2ToGk&ab_channel=TutusFunny
+### ✅ TODO
+- Init Django and Angular projects
+- Create workflows, milestones for mvps
+
+### ✨ Features
+- Multiple account types: Admin, Organiser, Invitee  
+- Create and manage events (with CRUD operations)  
+- View and set event locations (Google Maps API)  
+- Public and private events (anyone can join vs. invite only)  
+- Register and purchase tickets (secure payment handling)  
+- QR code generation for ticket invitations  
+- Real-time tracking of event capacity and availability  
+- Email notifications for reminders and announcements  
+- Event marketplace with filters, shopping cart, and search
+
+### 📚 References
+**Framework Tutorials**  
+- [Django & Angular Integration - Art of Engineer](https://www.youtube.com/watch?v=1Hc7KlLiU9w&ab_channel=ArtofEngineer)  
+- [Django REST + Angular - TutusFunny](https://www.youtube.com/watch?v=CUeR1j2ToGk&ab_channel=TutusFunny)
